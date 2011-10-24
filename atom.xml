@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[TheKidCoder]]></title>
+  <link href="http://TheKidCoder.github.com/atom.xml" rel="self"/>
+  <link href="http://TheKidCoder.github.com/"/>
+  <updated>2011-10-24T00:15:33-04:00</updated>
+  <id>http://TheKidCoder.github.com/</id>
+  <author>
+    <name><![CDATA[Christopher Ostrowski]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
