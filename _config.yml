@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://TheKidCoder.github.com
+title: TheKidCoder
+subtitle: Just a kid with a little code and a pager.
+author: Christopher Ostrowski
 simple_search: http://google.com/search
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
